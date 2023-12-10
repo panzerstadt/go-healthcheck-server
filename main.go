@@ -20,7 +20,6 @@ func main() {
 		"www.swiss.com",
 		"www.google.com",
 		"www.airasia.com",
-		"www.ana.com",
 		"dev.to",
 		"www.gmail.com",
 		"www.bing.com",
